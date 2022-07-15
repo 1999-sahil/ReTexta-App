@@ -24,3 +24,4 @@ Technologies used to build this project are:
 -> dotenv
 -> REST API's 
 
+Below are some photos of the live project:
